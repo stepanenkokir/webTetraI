@@ -1,0 +1,30 @@
+{
+	"type":"FeatureCollection",
+	"metadata":
+	{
+		"name":"Зона MLAT Иркутск»",
+		"creator":"AO NPO LEMZ, Stepanenko K.V., stepanenkokir@gmail.com",
+		"description":"Зона MLAT"
+	},
+	"features":
+	[
+		{	
+			"type":"Feature",
+			"id":0,
+			"geometry":
+			{
+				"type":"Polygon",
+				"coordinates":
+				[
+					[					 
+						[103.742596693,51.751965355],
+						[104.839609822,51.879004101],
+						[105.214291852,52.961067765],
+						[103.194456992,52.441956642],
+						[103.742596693,51.751965355]
+				  	]
+				 ]
+			}
+		}
+	]
+}
